@@ -1,0 +1,55 @@
+.thumbs ul li {
+	display:table-cell;
+	padding:0 10px;
+}
+.thumbs ul li img {
+	height:90px !important;
+	margin:0 -2px;
+}
+
+		<div class="thumbs">
+			<ul>
+				<li>
+					<a href="#journal/1"><img src="./images/cover_pre.jpg" width="68" height="90" alt=""></a>
+				</li>
+				<li>
+					<a href="#journal/3"><img src="./images/page_pre1.jpg" width="68" height="90" alt=""></a>
+					<a href="#journal/3"><img src="./images/page_pre2.jpg" width="68" height="90" alt=""></a>
+				</li>
+				<li>
+					<a href="#journal/5"><img src="./images/page_pre1.jpg" width="68" height="90" alt=""></a>
+					<a href="#journal/5"><img src="./images/page_pre2.jpg" width="68" height="90" alt=""></a>
+				</li>
+				<li>
+					<a href="#journal/7"><img src="./images/page_pre1.jpg" width="68" height="90" alt=""></a>
+					<a href="#journal/7"><img src="./images/page_pre2.jpg" width="68" height="90" alt=""></a>
+				</li>
+				<li>
+					<a href="#journal/9"><img src="./images/page_pre1.jpg" width="68" height="90" alt=""></a>
+					<a href="#journal/9"><img src="./images/page_pre2.jpg" width="68" height="90" alt=""></a>
+				</li>
+				<li>
+					<a href="#journal/11"><img src="./images/page_pre1.jpg" width="68" height="90" alt=""></a>
+					<a href="#journal/11"><img src="./images/page_pre2.jpg" width="68" height="90" alt=""></a>
+				</li>
+				<li>
+					<a href="#journal/13"><img src="./images/page_pre1.jpg" width="68" height="90" alt=""></a>
+					<a href="#journal/13"><img src="./images/page_pre2.jpg" width="68" height="90" alt=""></a>
+				</li>
+				<li>
+					<a href="#journal/15"><img src="./images/page_pre1.jpg" width="68" height="90" alt=""></a>
+					<a href="#journal/15"><img src="./images/page_pre2.jpg" width="68" height="90" alt=""></a>
+				</li>
+				<li>
+					<a href="#journal/17"><img src="./images/page_pre1.jpg" width="68" height="90" alt=""></a>
+					<a href="#journal/17"><img src="./images/page_pre2.jpg" width="68" height="90" alt=""></a>
+				</li>
+				<li>
+					<a href="#journal/3"><img src="./images/page_pre1.jpg" width="68" height="90" alt=""></a>
+					<a href="#journal/3"><img src="./images/page_pre2.jpg" width="68" height="90" alt=""></a>
+				</li>
+				<li>
+					<a href="#journal/19"><img src="./images/last_pre.jpg" width="68" height="90" alt=""></a>
+				</li>
+			</ul>
+		</div>
