@@ -62,7 +62,7 @@
 	});
 	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
 		$('.mobileslider').fadeIn(0);
-		$('.thumbs').jScrollPane();
+		//$('.thumbs').jScrollPane();
 		$('#main-slider').liquidSlider({
 			autoHeight: true,
 			dynamicTabs: false,
