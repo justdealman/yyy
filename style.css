@@ -1687,6 +1687,7 @@ div.gallery .close {
 	cursor:pointer;
 	display:block;
 	z-index:200;
+	background:url('./images/next.png') no-repeat right center;
 }
 .ad-gallery .ad-image-wrapper .ad-prev {
 	position:absolute;
@@ -1697,6 +1698,7 @@ div.gallery .close {
 	cursor:pointer;
 	display:block;
 	z-index:200;
+	background:url('./images/prev.png') no-repeat left center;
 }
 .ad-gallery .ad-image-wrapper .ad-prev, .ad-gallery .ad-image-wrapper .ad-next {}
 .ad-gallery .ad-image-wrapper .ad-prev .ad-prev-image, .ad-gallery .ad-image-wrapper .ad-next .ad-next-image {
